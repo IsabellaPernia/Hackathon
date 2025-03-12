@@ -37,16 +37,20 @@ El sistema consta de cuatro componentes principales: el frontend, el backend, el
 
 
 
-4. [Proceso]
+
 * Proceso de desarrollo:
 
 -Fuente del dataset
+Diferentes Datasets provenientes de Kaggel
 
 -Limpieza de datos (img que lo valide)
 
+
 -Manejo excepciones/control errores
+En el codigo hay "Exception" que se imprimen en el terminal indicando cual es error que ocurre
 
 -Estadísticos (Valores, gráficos, …)
+
 
 * Funcionalidades extra:
 
