@@ -44,12 +44,15 @@ El sistema consta de cuatro componentes principales: el frontend, el backend, el
 Diferentes Datasets provenientes de Kaggel
 
 -Limpieza de datos (img que lo valide)
+![code](https://github.com/user-attachments/assets/ec7990de-9114-400e-91c5-42c8a25fc9e0)
 
 
 -Manejo excepciones/control errores
 En el codigo hay "Exception" que se imprimen en el terminal indicando cual es error que ocurre
 
 -Estadísticos (Valores, gráficos, …)
+![Grafica](https://github.com/user-attachments/assets/105da860-e050-4cab-8daa-82b132d20f06)
+![grafica1](https://github.com/user-attachments/assets/da1a9e5e-83d5-4057-a4ea-5daf231e288c)
 
 
 * Funcionalidades extra:
