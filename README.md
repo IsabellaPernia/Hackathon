@@ -12,11 +12,13 @@ Sistema de recomendación de libros impulsado por NLP, que ofrece recomendacione
 6. [Estado del proyecto](#EstadoDelProyecto)
 7. [Agradecimientos](#Agradecimientos)
 
-
+1. [Nombre]
 * DreamPages
 
+2. [Descripción]
 Sistema de recomendación de libros impulsado por NLP, que ofrece recomendaciones personalizadas basadas en descripciones detalladas de los usuarios. -> Alguna imagen o gif que muestre el proyecto
 
+3. [Arquitectura]
 * Arquitectura del proyecto + imagen
   
 El sistema consta de cuatro componentes principales: el frontend, el backend, el chatbot y la API de imágenes.
@@ -33,12 +35,10 @@ El sistema consta de cuatro componentes principales: el frontend, el backend, el
 
 
 
-
+4. [Proceso]
 * Proceso de desarrollo:
 
 -Fuente del dataset
-
-
 
 -Limpieza de datos (img que lo valide)
 
