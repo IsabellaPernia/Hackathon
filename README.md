@@ -29,7 +29,8 @@ El sistema consta de cuatro componentes principales: el frontend, el backend, el
 
 -API de Imágenes (TextoImagenApiPrueba2.py): Genera imágenes basadas en el título del libro proporcionado.
 
-![flujo](https://github.com/user-attachments/assets/1e256671-823e-459f-ad65-cb82336dbfe6)
+![flujo](https://github.com/user-attachments/assets/b8593ac7-8102-4996-a7d2-7e3dc99fab53)
+
 
 
 
