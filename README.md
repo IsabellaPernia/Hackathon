@@ -1,6 +1,6 @@
-# Nombre del Proyecto
+DreamPages
 
-Breve descripción del proyecto.
+Sistema de recomendación de libros impulsado por NLP, que ofrece recomendaciones personalizadas basadas en descripciones detalladas de los usuarios.
 
 ## Tabla de contenidos
 
@@ -13,15 +13,24 @@ Breve descripción del proyecto.
 7. [Agradecimientos](#Agradecimientos)
 
 
-* Nombre del proyecto
+* DreamPages
 
-* Breve descripción del proyecto -> Alguna imagen o gif que muestre el proyecto
+Sistema de recomendación de libros impulsado por NLP, que ofrece recomendaciones personalizadas basadas en descripciones detalladas de los usuarios. -> Alguna imagen o gif que muestre el proyecto
 
 * Arquitectura del proyecto + imagen
+  
+El sistema consta de cuatro componentes principales: el frontend, el backend, el chatbot y la API de imágenes.
+Frontend (App.tsx): Es la interfaz de usuario donde se ingresan datos (descripción o título del libro), se muestran recomendaciones, detalles del libro, se interactúa en el chat y se visualizan imágenes adicionales.
+Backend (app.py): Procesa los datos ingresados por el usuario, genera recomendaciones de libros, gestiona el chat y genera imágenes adicionales. Actúa como intermediario entre el frontend, el chatbot y la API de imágenes.
+Chatbot (chatbot.py): Genera respuestas basadas en el contexto de la conversación del chat.
+API de Imágenes (TextoImagenApiPrueba2.py): Genera imágenes basadas en el título del libro proporcionado.
+
 
 * Proceso de desarrollo:
 
 -Fuente del dataset
+
+
 
 -Limpieza de datos (img que lo valide)
 
