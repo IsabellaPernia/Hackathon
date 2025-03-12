@@ -13,9 +13,11 @@ Sistema de recomendación de libros impulsado por NLP, que ofrece recomendacione
 7. [Agradecimientos](#Agradecimientos)
 
 * Nombre
+  
 DreamPages
 
-
+* Descripcíon
+* 
 Sistema de recomendación de libros impulsado por NLP, que ofrece recomendaciones personalizadas basadas en descripciones detalladas de los usuarios. -> Alguna imagen o gif que muestre el proyecto
 
 
