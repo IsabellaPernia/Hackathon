@@ -21,13 +21,13 @@ Sistema de recomendación de libros impulsado por NLP, que ofrece recomendacione
   
 El sistema consta de cuatro componentes principales: el frontend, el backend, el chatbot y la API de imágenes.
 
-- Frontend (App.tsx): Es la interfaz de usuario donde se ingresan datos (descripción o título del libro), se muestran recomendaciones, detalles del libro, se interactúa en el chat y se visualizan imágenes adicionales.
+-Frontend (App.tsx): Es la interfaz de usuario donde se ingresan datos (descripción o título del libro), se muestran recomendaciones, detalles del libro, se interactúa en el chat y se visualizan imágenes adicionales.
 
-- Backend (app.py): Procesa los datos ingresados por el usuario, genera recomendaciones de libros, gestiona el chat y genera imágenes adicionales. Actúa como intermediario entre el frontend, el chatbot y la API de imágenes.
+-Backend (app.py): Procesa los datos ingresados por el usuario, genera recomendaciones de libros, gestiona el chat y genera imágenes adicionales. Actúa como intermediario entre el frontend, el chatbot y la API de imágenes.
 
-- Chatbot (chatbot.py): Genera respuestas basadas en el contexto de la conversación del chat.
+-Chatbot (chatbot.py): Genera respuestas basadas en el contexto de la conversación del chat.
 
-- API de Imágenes (TextoImagenApiPrueba2.py): Genera imágenes basadas en el título del libro proporcionado.
+-API de Imágenes (TextoImagenApiPrueba2.py): Genera imágenes basadas en el título del libro proporcionado.
 
 
 * Proceso de desarrollo:
